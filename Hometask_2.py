@@ -52,14 +52,13 @@ countries_temperature = [
 ]
 print('Средняя температура в странах: ')
 string = 0
-items = 1
 for block in countries_temperature:
     temperature = 0
     sum_temperature = 0
-    for a in countries_temperature[string][items]:
+    for a in countries_temperature[string][1]:
         temperature += 1
         sum_temperature += a
-    avarage_temperature = sum_temperature / len(countries_temperature[string][items])
+    avarage_temperature = sum_temperature / len(countries_temperature[string][1])
     cel = (avarage_temperature - 32) * 5 / 9
     print(f'{countries_temperature[string][0]} - {round(cel,1)} C')
     string += 1
