@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c15533c5-b3db-4565-917a-5ccf3c374501" name="Changes" comment="Hometask4">
-      <change afterPath="$PROJECT_DIR$/2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hometask_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/Hometask_pandas_2.py" afterDir="false" />
+    <list default="true" id="c15533c5-b3db-4565-917a-5ccf3c374501" name="Changes" comment="new">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/Hometask_pandas_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/Hometask_pandas_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/keywords.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/power.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/ratings.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.Hometask_pandas_2">
-    <configuration name="Hometask_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Hometask_5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -67,7 +69,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject1/venv/bin/python" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -82,6 +84,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Hometask_pandas_2" />
+      <item itemvalue="Python.Hometask_5" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Hometask_pandas_2" />
@@ -118,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640509135247</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new">
+      <created>1643655956795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643655956795</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new">
+      <created>1643655986714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643655986715</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +156,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="correct Hometask2" />
     <MESSAGE value="Hometask3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hometask3" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
