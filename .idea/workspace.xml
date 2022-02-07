@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c15533c5-b3db-4565-917a-5ccf3c374501" name="Changes" comment="new">
+    <list default="true" id="c15533c5-b3db-4565-917a-5ccf3c374501" name="Changes" comment="Hometask_pandas_2.py update">
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Hometask_pandas_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/Hometask_pandas_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/keywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/power.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/ratings.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643655986715</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Hometask_pandas_2.py update">
+      <created>1643804215496</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643804215496</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +161,8 @@
     <MESSAGE value="correct Hometask2" />
     <MESSAGE value="Hometask3" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="Hometask_pandas_2.py update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hometask_pandas_2.py update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
